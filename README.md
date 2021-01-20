@@ -1,2 +1,1 @@
-# github-plus
-A script to enhance the GitHub website!
+W.I.P.
